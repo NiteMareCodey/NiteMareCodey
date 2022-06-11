@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NiteMareCodey
+- 👀 I’m begining to start again with learning how to code from scratch and learning about Java/HTML/Python/etc.
+- 🌱 I’m currently learning about HTML and coding basics
+- 💞️ I’m looking to collaborate on Java/Javascript/HTML/Python/C#/C++
+- 📫 IG: @midnite_se
